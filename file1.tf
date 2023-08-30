@@ -21,4 +21,4 @@ resource "aws_instance" "example_server" {
   tags = {
     Name = "JacksBlogExample"
   }
-}
+hh}
